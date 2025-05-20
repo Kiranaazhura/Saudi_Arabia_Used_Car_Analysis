@@ -75,6 +75,8 @@ Proyek ini bertujuan untuk menganalisis data pasar mobil bekas di Arab Saudi gun
 ## 6. Kontak
 
 **Nama**: Kirana Azhura
+
 **Email**: kiranaazhuraa08@gmail.com
+
 **LinkedIn**: [Kirana Azhura](https://www.linkedin.com/in/kirana-azhura-8a3b65337/)
 
